@@ -1,0 +1,17 @@
+{
+    "Categoria A": {
+        "Categoria A": 2,
+        "Categoria B": 1.3,
+        "Categoria C": 1
+    },
+    "Categoria B": {
+        "Categoria A": 1.3,
+        "Categoria B": 0.9,
+        "Categoria C": 0.75
+    },
+    "Categoria C": {
+        "Categoria A": 1,
+        "Categoria B": 0.75,
+        "Categoria C": 0.47
+    }
+}
